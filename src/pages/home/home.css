@@ -1,0 +1,12 @@
+.container-fluid {
+  display: flex;
+  margin-top: 10px;
+}
+.home{
+    flex: 4;
+}
+
+.home-widgets{
+    display: flex;
+    margin: 20px;
+}
